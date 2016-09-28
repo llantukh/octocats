@@ -11,13 +11,13 @@
 margin: 0px 10px}
 
 .image-footer{
-
-
-
+color: grey;
+font-size: 12px;
 }
 
 .image-number{
   float: left;
+  color: grey;
 
 }
 
@@ -38,7 +38,7 @@ margin: 0px 10px}
   padding: 0px
 }
 img{
- height: 220px;
+ height: 290px;
  border-style: solid;
  border-color: lightgrey;
  border-width: 2px;
@@ -51,4 +51,6 @@ ul{
 
 a{
   text-decoration: none;
+  color: black;
+  font-weight: bold;
 }
